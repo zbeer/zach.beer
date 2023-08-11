@@ -29,7 +29,7 @@ As with Enneagrams, I make no claim that CliftonStrengths is a perfect tool or a
 1. __Responsibility__: People who are especially talented in the Responsibility theme take psychological ownership of what they say they will do.  They are committed to stable values such as honesty and loyalty.
 1. __Analytical__: People who are especially talented in the Analytical theme search for reasons and causes.  They have the ability to think about all the factors that might affect a situation.
 1. __Individualization__: People who are especially talented in the Individualization theme are intrigued with the unique qualities of each person.  They have a gift for figuring out how people who are different can work together productively.
-1. __Achiever__: People who are especially talented in the Achiever theme have a great deal of stamina and work hard.  THey take great satisfaction from being busy and productive.
+1. __Achiever__: People who are especially talented in the Achiever theme have a great deal of stamina and work hard.  They take great satisfaction from being busy and productive.
 
 ## Axioms
 Things you will hear me say often and what they mean.
