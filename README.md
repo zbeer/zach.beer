@@ -57,6 +57,7 @@ In no particular order.
 - [Radical Candor](https://openlibrary.org/works/OL17803541W/Radical_Candor)
 - [Inspired](https://openlibrary.org/works/OL16803591W/Inspired)
 - [The Lean Startup](https://openlibrary.org/works/OL16086010W/The_Lean_Startup)
+- [Thinking, Fast and Slow](https://openlibrary.org/books/OL36689110M/Thinking_fast_and_slow)
 - [The Master Coach](https://openlibrary.org/works/OL20538855W/The_Master_Coach)
 - [Scrum: A Breathtakingly Brief and Agile Introduction](https://openlibrary.org/works/OL20866112W/Scrum)
 - [Oldman's Guide to Outsmarting Wine](https://openlibrary.org/works/OL5858714W/Oldman%27s_Guide_to_Outsmarting_Wine)
