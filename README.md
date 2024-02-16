@@ -46,6 +46,8 @@ Adapted from a previous therapist, Allison Cotton.  People see the world from th
 ### "People in a system will __generally__ only rise to what the system will hold them accountable to."
 I'll freely admit that this is a cynical worldview, but one that I believe bears out in practice.  It is unreasonable to expect humans to do more than the system requires of them.  They may choose to do more, but that does not mean that we should expect it.  Likewise, if the system rewards people for a certain behavior -- they're going to tend towards that behavior.  We can say "so and so should do X" until we're blue in the face, but is anything holding that person accountable for doing what we believe they should do?  Are they incentivized to do that thing?  Probably not.  Let's not blame them, let's fix the system.
 
+### "Slow is smooth, smooth is fast."
+
 ### "If your solution is memorization, you haven't solved the problem."
 As humans, we have too much going on to assume we'll remember the right thing at the right time.  If we do, it's dumb luck.
 
